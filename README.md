@@ -1,1 +1,1 @@
-# Miami_landcover_datasets
+# Miami Land Cover Datasets
